@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "category": "ALL"
+    },
+    {
+        "id": 1,
+        "category": "RUNNING"
+    },
+    {
+        "id": 2,
+        "category": "FOOTBALL"
+    },
+    {
+        "id": 3,
+        "category": "CASUAL"
+    },
+    {
+        "id": 4,
+        "category": "FORMAL"
+    }
+]
